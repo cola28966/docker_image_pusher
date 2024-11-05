@@ -1,6 +1,6 @@
 fhueske/flink-sql-training-client:2-FLINK-1.11-scala_2.11
 fhueske/flink-sql-training-flink-s3:1.11.1-scala_2.11
-zookeeper:3.4.6
+zookeeper:3.5
 wurstmeister/kafka:2.12-2.2.1
 mysql:8.0.19
 minio/minio:latest
