@@ -1,5 +1,5 @@
 maven:3.6-jdk-8-slim
-flink:1.18.1-scala_2.12
+flink:1.18.1-scala_2.12-java8
 --platform=linux/arm64 fhueske/flink-sql-training-client:2-FLINK-1.13-scala_2.11
 --platform=linux/arm64 fhueske/flink-sql-training-flink-s3:1.13.1-scala_2.11
 flink:1.11.1-scala_2.11
