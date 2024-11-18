@@ -6,7 +6,7 @@ fhueske/flink-sql-training-flink-s3:1.11.1-scala_2.11
 --platform=linux/arm64 zookeeper:3.5
 zookeeper:3.5
 wurstmeister/kafka:2.12-2.2.1
---platform=linux/arm64 mysql:5.7.42
+--platform=linux/arm64 mysql:8.0.29-oracle
 mysql:8.0.19
 --platform=linux/arm64 minio/minio:latest
 minio/minio:latest
